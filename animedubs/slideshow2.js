@@ -4,10 +4,10 @@
     let currentIndex = 0;
 
     const links = [
-        "https://animedubs.wapjo.xyz/page-download/1.html",
-        "https://animedubs.wapjo.xyz/page-download/14.html",
-        "https://animedubs.wapjo.xyz/page-download/2.html",
-        "https://animedubs.wapjo.xyz/page-download/10.html"
+        "https://animedubs.wapaxo.com/page-download/1.html",
+        "https://animedubs.wapaxo.com/page-download/14.html",
+        "https://animedubs.wapaxo.com/page-download/2.html",
+        "https://animedubs.wapaxo.com/page-download/10.html"
     ];
 
     function moveSlide(direction) {
